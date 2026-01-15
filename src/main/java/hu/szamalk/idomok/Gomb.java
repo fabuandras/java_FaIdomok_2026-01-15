@@ -1,4 +1,4 @@
-package hu.szamalk;
+package hu.szamalk.idomok;
 
 public class Gomb extends FaIdom {
     private double sugar;

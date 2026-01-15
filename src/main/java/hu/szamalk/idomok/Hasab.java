@@ -1,4 +1,4 @@
-package hu.szamalk;
+package hu.szamalk.idomok;
 
 public class Hasab extends FaIdom {
     private double a;

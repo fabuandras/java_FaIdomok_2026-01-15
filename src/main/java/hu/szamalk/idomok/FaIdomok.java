@@ -1,4 +1,4 @@
-package hu.szamalk;
+package hu.szamalk.idomok;
 
 import java.util.ArrayList;
 import java.util.List;
